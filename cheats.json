@@ -1,0 +1,807 @@
+{
+  "version": 1,
+  "updated": "2026-11-19",
+  "cheats": [
+    {
+      "id": "o1",
+      "source": "verified",
+      "name": "$250,000",
+      "category": "player",
+      "code": "U R D L U L D R",
+      "unlock": "Finish the main story",
+      "effect": "Instantly adds $250,000. The only money cheat."
+    },
+    {
+      "id": "o2",
+      "source": "verified",
+      "name": "Drunk",
+      "category": "player",
+      "code": null,
+      "unlock": "Spend $2,500 on alcohol",
+      "effect": "You and your partner get drunk instantly."
+    },
+    {
+      "id": "o3",
+      "source": "verified",
+      "name": "Raise Heat Level",
+      "category": "player",
+      "code": "L D R D U D U",
+      "unlock": "Lose a 3-star wanted level 25 times",
+      "effect": "Raises your heat level across the map."
+    },
+    {
+      "id": "o4",
+      "source": "verified",
+      "name": "Raise Wanted Level",
+      "category": "player",
+      "code": "L D R D U R U",
+      "unlock": "Lose a 3-star wanted level 50 times",
+      "effect": "Raises your wanted level across the map."
+    },
+    {
+      "id": "o5",
+      "source": "verified",
+      "name": "Unlimited Focus",
+      "category": "player",
+      "code": "D U U D U D U D U R",
+      "unlock": "Finish the main story",
+      "effect": "Focus never runs out."
+    },
+    {
+      "id": "o6",
+      "source": "verified",
+      "name": "No Fall Damage",
+      "category": "player",
+      "code": null,
+      "unlock": "Survive a 40ft+ freefall 20 times",
+      "effect": "Falls no longer hurt you."
+    },
+    {
+      "id": "o7",
+      "source": "verified",
+      "name": "Parachute",
+      "category": "player",
+      "code": null,
+      "unlock": "Complete 50 skydives or BASE jumps from 300ft+",
+      "effect": "Adds a parachute to your loadout."
+    },
+    {
+      "id": "o8",
+      "source": "verified",
+      "name": "Body Armor",
+      "category": "player",
+      "code": "D U L U U U U U D D",
+      "unlock": "Complete 100 workouts",
+      "effect": "Adds body armor to your loadout."
+    },
+    {
+      "id": "o9",
+      "source": "verified",
+      "name": "Repair Vehicle",
+      "category": "player",
+      "code": null,
+      "unlock": "Win 10 races at Gellhorn Raceway, Thrillbilly Mud Club and Boone Speedway",
+      "effect": "Fully repairs your current vehicle."
+    },
+    {
+      "id": "o10",
+      "source": "verified",
+      "name": "Unlimited Nitrous",
+      "category": "player",
+      "code": null,
+      "unlock": "Complete 50 stunt jumps",
+      "effect": "Nitrous and fuel never run out."
+    },
+    {
+      "id": "o11",
+      "source": "verified",
+      "name": "Max Ammo",
+      "category": "combat",
+      "code": "D U R D L L U U D L",
+      "unlock": "Win 25 bronze (or better) shooting range medals. PC Gamer lists 20.",
+      "effect": "Fills every weapon to max ammo."
+    },
+    {
+      "id": "o12",
+      "source": "verified",
+      "name": "Infinite Ammo",
+      "category": "combat",
+      "code": "D U R D L L U D D D",
+      "unlock": "Win 25 silver (or better) shooting range medals",
+      "effect": "Ammo never runs out."
+    },
+    {
+      "id": "o13",
+      "source": "verified",
+      "name": "No Reload",
+      "category": "combat",
+      "code": "D U R D L L U D D U",
+      "unlock": "Win 25 gold shooting range medals",
+      "effect": "Infinite ammo and no reloading."
+    },
+    {
+      "id": "o14",
+      "source": "verified",
+      "name": "All Explosive Weapons",
+      "category": "combat",
+      "code": null,
+      "unlock": "Throw 100 grenades",
+      "effect": "Gives every explosive weapon with full ammo."
+    },
+    {
+      "id": "o15",
+      "source": "verified",
+      "name": "Incendiary Ammo",
+      "category": "combat",
+      "code": null,
+      "unlock": "Burn 100 enemies with fire",
+      "effect": "All your ammo sets targets on fire."
+    },
+    {
+      "id": "o16",
+      "source": "verified",
+      "name": "Exploding Bottles",
+      "category": "combat",
+      "code": null,
+      "unlock": "Throw 100 molotovs",
+      "effect": "Bottles explode when damaged."
+    },
+    {
+      "id": "o17",
+      "source": "verified",
+      "name": "Explosive Shotgun",
+      "category": "combat",
+      "code": null,
+      "unlock": "Hit 100 enemies with explosive damage",
+      "effect": "Adds a shotgun that fires explosive shells."
+    },
+    {
+      "id": "o18",
+      "source": "verified",
+      "name": "Hauners H-AT",
+      "category": "combat",
+      "code": null,
+      "unlock": "Blow up 100 vehicles",
+      "effect": "Adds the Hauners H-AT launcher to your loadout."
+    },
+    {
+      "id": "o19",
+      "source": "verified",
+      "name": "Attack Force",
+      "category": "combat",
+      "code": "D U L L R D D U D",
+      "unlock": "Finish the main story",
+      "effect": "Bullets and melee hits launch targets."
+    },
+    {
+      "id": "o20",
+      "source": "verified",
+      "name": "Exploding Balls",
+      "category": "combat",
+      "code": "D U L L R D D U R",
+      "unlock": "Hit 20 enemies with explosive damage",
+      "effect": "Sports balls explode on impact."
+    },
+    {
+      "id": "o21",
+      "source": "verified",
+      "name": "Vehicle Force",
+      "category": "combat",
+      "code": "D U L L R D L U D",
+      "unlock": "Kill 25 enemies with a vehicle",
+      "effect": "Vehicle collisions launch targets."
+    },
+    {
+      "id": "o22",
+      "source": "verified",
+      "name": "Interstate Ambulance",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Discover it in the Progress menu",
+      "effect": "Spawns an Interstate Ambulance."
+    },
+    {
+      "id": "o23",
+      "source": "verified",
+      "name": "Airboat 09",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete 5 survival challenges",
+      "effect": "Spawns an Airboat 09."
+    },
+    {
+      "id": "o24",
+      "source": "verified",
+      "name": "Bravado Banshee",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete all combat challenges",
+      "effect": "Spawns a Bravado Banshee."
+    },
+    {
+      "id": "o25",
+      "source": "verified",
+      "name": "Tuff BMX",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete 5 fitness challenges",
+      "effect": "Spawns a Tuff BMX."
+    },
+    {
+      "id": "o26",
+      "source": "verified",
+      "name": "Maibatsu Boomazoom",
+      "category": "vehicles",
+      "code": "L U R D L L U L",
+      "unlock": "Complete 5 shopping challenges",
+      "effect": "Spawns a Maibatsu Boomazoom."
+    },
+    {
+      "id": "o27",
+      "source": "verified",
+      "name": "Nagasaki Carbon RS",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete all exploration challenges",
+      "effect": "Spawns a Nagasaki Carbon RS."
+    },
+    {
+      "id": "o28",
+      "source": "verified",
+      "name": "'65 Vapid Dominator",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete all fitness challenges",
+      "effect": "Spawns a '65 Vapid Dominator."
+    },
+    {
+      "id": "o29",
+      "source": "verified",
+      "name": "Progen Emerus",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete all vehicle challenges",
+      "effect": "Spawns a Progen Emerus."
+    },
+    {
+      "id": "o30",
+      "source": "verified",
+      "name": "Inflatable Flamingo",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Destroy 50 cocaine flamingos",
+      "effect": "Spawns an inflatable flamingo."
+    },
+    {
+      "id": "o31",
+      "source": "verified",
+      "name": "MTL Pumper",
+      "category": "vehicles",
+      "code": "L U R D L R R U",
+      "unlock": "Discover it in the Progress menu",
+      "effect": "Spawns an MTL Pumper."
+    },
+    {
+      "id": "o32",
+      "source": "verified",
+      "name": "Vapid Stanier G2 Taxi",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete 5 sports challenges",
+      "effect": "Spawns a Vapid Stanier G2 taxi."
+    },
+    {
+      "id": "o33",
+      "source": "verified",
+      "name": "Hauners P-996 Lazer",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete all challenges",
+      "effect": "Spawns the P-996 Lazer fighter jet."
+    },
+    {
+      "id": "o34",
+      "source": "verified",
+      "name": "HVY Bulldozer",
+      "category": "vehicles",
+      "code": "L U R D L R R D",
+      "unlock": "Discover it in the Progress menu",
+      "effect": "Spawns an HVY Bulldozer."
+    },
+    {
+      "id": "o35",
+      "source": "verified",
+      "name": "Lapwing Mallard",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete 5 vehicle challenges",
+      "effect": "Spawns a Lapwing Mallard."
+    },
+    {
+      "id": "o36",
+      "source": "verified",
+      "name": "Brimstone Golfer",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete all sports challenges",
+      "effect": "Spawns a Brimstone Golfer."
+    },
+    {
+      "id": "o37",
+      "source": "verified",
+      "name": "Hauners Rhino Tank",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete all survival challenges",
+      "effect": "Spawns a Rhino tank."
+    },
+    {
+      "id": "o38",
+      "source": "verified",
+      "name": "Maibatsu Sanchez",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete 5 criminal challenges",
+      "effect": "Spawns a Maibatsu Sanchez."
+    },
+    {
+      "id": "o39",
+      "source": "verified",
+      "name": "Nagasaki Sea Sparrow",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete 5 exploration challenges",
+      "effect": "Spawns a Nagasaki Sea Sparrow."
+    },
+    {
+      "id": "o40",
+      "source": "verified",
+      "name": "Speeder 700 GT",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete 5 combat challenges",
+      "effect": "Spawns a Speeder 700 GT."
+    },
+    {
+      "id": "o41",
+      "source": "verified",
+      "name": "Truffade Thrax",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete all shopping challenges",
+      "effect": "Spawns a Truffade Thrax."
+    },
+    {
+      "id": "o42",
+      "source": "verified",
+      "name": "Western Zombie Bobber",
+      "category": "vehicles",
+      "code": null,
+      "unlock": "Complete all criminal challenges",
+      "effect": "Spawns a Western Zombie Bobber."
+    },
+    {
+      "id": "o43",
+      "source": "verified",
+      "name": "Move Time Forward",
+      "category": "environment",
+      "code": null,
+      "unlock": "Find 10 collectible watches",
+      "effect": "Moves the time of day forward."
+    },
+    {
+      "id": "o44",
+      "source": "verified",
+      "name": "Pause Time of Day",
+      "category": "environment",
+      "code": null,
+      "unlock": "Find 20 collectible watches",
+      "effect": "Freezes the current time of day."
+    },
+    {
+      "id": "o45",
+      "source": "verified",
+      "name": "Cycle Weather",
+      "category": "environment",
+      "code": "D R U D R U R",
+      "unlock": "Finish the main story",
+      "effect": "Cycles through weather conditions."
+    },
+    {
+      "id": "o46",
+      "source": "verified",
+      "name": "Golden Hour",
+      "category": "filters",
+      "code": null,
+      "unlock": "Spend 4 hours holding hands",
+      "effect": "Golden, widescreen look."
+    },
+    {
+      "id": "o47",
+      "source": "verified",
+      "name": "Powdered Sugar",
+      "category": "filters",
+      "code": null,
+      "unlock": "Scan all space debris with WAiNK",
+      "effect": "White world with sparkling highlights."
+    },
+    {
+      "id": "o48",
+      "source": "verified",
+      "name": "Pinhole",
+      "category": "filters",
+      "code": null,
+      "unlock": "Clear 25 gang operations with your partner",
+      "effect": "Pinhole camera look."
+    },
+    {
+      "id": "o49",
+      "source": "verified",
+      "name": "Neon Jungle",
+      "category": "filters",
+      "code": null,
+      "unlock": "Discover all 16 Girlypop vehicles",
+      "effect": "Neon highlights everywhere."
+    },
+    {
+      "id": "o50",
+      "source": "verified",
+      "name": "Yesteryear",
+      "category": "filters",
+      "code": null,
+      "unlock": "Discover the Ridgway",
+      "effect": "Black-and-white CRT TV look."
+    },
+    {
+      "id": "o51",
+      "source": "verified",
+      "name": "Cataclysm",
+      "category": "filters",
+      "code": "D D U R R U L L R R",
+      "unlock": "Discover Martha's Vamos in the Progress menu",
+      "effect": "Fills the world with murky smoke."
+    },
+    {
+      "id": "o52",
+      "source": "verified",
+      "name": "Videotape",
+      "category": "filters",
+      "code": null,
+      "unlock": "Complete 50 activities with your partner",
+      "effect": "Old videotape look."
+    },
+    {
+      "id": "o53",
+      "source": "verified",
+      "name": "Dark Mirror",
+      "category": "filters",
+      "code": null,
+      "unlock": "Make $500,000 selling vehicles",
+      "effect": "Flips the world upside down and darkens it."
+    },
+    {
+      "id": "o54",
+      "source": "verified",
+      "name": "Migraine",
+      "category": "filters",
+      "code": null,
+      "unlock": "Survive 6 minutes at a 6-star wanted level",
+      "effect": "Blurred, distorted view."
+    },
+    {
+      "id": "o55",
+      "source": "verified",
+      "name": "Dollhouse",
+      "category": "filters",
+      "code": "D D U R R U L L D R",
+      "unlock": "Spend 8 hours with your partner",
+      "effect": "Vivid colors in a narrow frame."
+    },
+    {
+      "id": "o56",
+      "source": "verified",
+      "name": "Bubblegum",
+      "category": "filters",
+      "code": null,
+      "unlock": "Find all 24 Vice City Flamingos collectible cards",
+      "effect": "Purple and yellow world with sparkles."
+    },
+    {
+      "id": "o57",
+      "source": "verified",
+      "name": "Fast Forward",
+      "category": "filters",
+      "code": null,
+      "unlock": "Complete 50 meditations",
+      "effect": "Motion blur and fast-moving clouds."
+    },
+    {
+      "id": "o58",
+      "source": "verified",
+      "name": "Fisheye",
+      "category": "filters",
+      "code": null,
+      "unlock": "Catch 100 fish",
+      "effect": "Fisheye lens look."
+    },
+    {
+      "id": "o59",
+      "source": "verified",
+      "name": "Faded Glory",
+      "category": "filters",
+      "code": "D D U R R U L L L R",
+      "unlock": "Rob 50 stores with your partner",
+      "effect": "Color CRT TV look."
+    },
+    {
+      "id": "o60",
+      "source": "verified",
+      "name": "Pixel Art",
+      "category": "filters",
+      "code": null,
+      "unlock": "Make $250,000 selling collectibles",
+      "effect": "Pixelated look."
+    },
+    {
+      "id": "o61",
+      "source": "verified",
+      "name": "Hellscape",
+      "category": "filters",
+      "code": null,
+      "unlock": "Steal 100 cop vehicles",
+      "effect": "Red-orange world with heat haze."
+    },
+    {
+      "id": "v1",
+      "source": "unverified",
+      "name": "Weapon Set 1 – Thug Weapons",
+      "category": "weapons",
+      "code": "R1 R2 L1 R2 L D R U L D",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v2",
+      "source": "unverified",
+      "name": "Weapon Set 2 – Professional",
+      "category": "weapons",
+      "code": "R1 R2 L1 R2 L D R U L U",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v3",
+      "source": "unverified",
+      "name": "Weapon Set 3 – Nutter Weapons",
+      "category": "weapons",
+      "code": "R1 R2 L1 R2 L D R U L R",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v4",
+      "source": "unverified",
+      "name": "Give Health, Armor & $250K",
+      "category": "player",
+      "code": "R1 R2 L1 R2 T L R D U",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v5",
+      "source": "unverified",
+      "name": "Full Health & Armor",
+      "category": "player",
+      "code": "L1 R1 C R1 L R2 U C L1",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v6",
+      "source": "unverified",
+      "name": "Infinite Ammo",
+      "category": "weapons",
+      "code": "L1 R1 C R1 R2 L R1 L L1",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v7",
+      "source": "unverified",
+      "name": "Raise Wanted Level",
+      "category": "wanted",
+      "code": "R1 R1 C R2 L R L R",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v8",
+      "source": "unverified",
+      "name": "Lower Wanted Level",
+      "category": "wanted",
+      "code": "R1 R1 C R2 R R L L",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v9",
+      "source": "unverified",
+      "name": "Max Wanted Level",
+      "category": "wanted",
+      "code": "R1 R1 C R2 L L L R",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v10",
+      "source": "unverified",
+      "name": "Clear Wanted Level",
+      "category": "wanted",
+      "code": "C R1 C R1 R1 R1 C R1",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v11",
+      "source": "unverified",
+      "name": "Police Disappear",
+      "category": "wanted",
+      "code": "T T C X C T",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v12",
+      "source": "unverified",
+      "name": "Spawn Buzzard",
+      "category": "vehicles",
+      "code": "C C L1 C C L1",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v13",
+      "source": "unverified",
+      "name": "Spawn Comet",
+      "category": "vehicles",
+      "code": "R1 C R2 R L1 L2 X X C R1",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v14",
+      "source": "unverified",
+      "name": "Spawn PCJ-600",
+      "category": "vehicles",
+      "code": "R1 R L1 C L2 L2 L1 C R1",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v15",
+      "source": "unverified",
+      "name": "Spawn Sanchez",
+      "category": "vehicles",
+      "code": "C X L1 C X L1 C X",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v16",
+      "source": "unverified",
+      "name": "Spawn Tank",
+      "category": "vehicles",
+      "code": "C L1 C C L1 L1 C R1 T",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v17",
+      "source": "unverified",
+      "name": "Spawn Jetpack",
+      "category": "vehicles",
+      "code": "L L1 L2 R1 R2 U D L R L1 L1",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v18",
+      "source": "unverified",
+      "name": "Get a Helicopter",
+      "category": "vehicles",
+      "code": "T T C C C L1 L2 L1 L1 U D",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v19",
+      "source": "unverified",
+      "name": "Get a Boat",
+      "category": "vehicles",
+      "code": "C C L1 L2 L D L L R2 L1 L1",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v20",
+      "source": "unverified",
+      "name": "Get a Garbage Truck",
+      "category": "vehicles",
+      "code": "C R1 C R1 L D L R1 L1 C R",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v21",
+      "source": "unverified",
+      "name": "Get a Stretch Limo",
+      "category": "vehicles",
+      "code": "R2 L1 L U L1 R1 L R C R2",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v22",
+      "source": "unverified",
+      "name": "Get a Caddy",
+      "category": "vehicles",
+      "code": "C L1 L R1 L2 R1 L1 C X",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v23",
+      "source": "unverified",
+      "name": "Change Weather",
+      "category": "world",
+      "code": "R2 X L1 L1 L2 L2 L2 C",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v24",
+      "source": "unverified",
+      "name": "Thunderstorm",
+      "category": "world",
+      "code": "R2 X L1 L1 L2 L2 L2 T",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v25",
+      "source": "unverified",
+      "name": "Slow Motion",
+      "category": "world",
+      "code": "T L R R C R2 R1",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v26",
+      "source": "unverified",
+      "name": "Fast Swim",
+      "category": "player",
+      "code": "L L R R C R2 R1",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v27",
+      "source": "unverified",
+      "name": "Super Jump",
+      "category": "player",
+      "code": "L L T T L C R1 R2",
+      "unlock": null,
+      "effect": null
+    },
+    {
+      "id": "v28",
+      "source": "unverified",
+      "name": "Nitrous Boost",
+      "category": "vehicles",
+      "code": "L L L1 R1 C L1 R R L1",
+      "unlock": null,
+      "effect": null
+    }
+  ]
+}
